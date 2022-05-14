@@ -1,0 +1,8 @@
+==================================================================
+外网面板地址: http://162.14.120.8:8888/starkciso
+内网面板地址: http://10.0.0.12:8888/starkciso
+*以下仅为初始默认账户密码，若无法登录请执行bt命令重置账户/密码登录
+username: stark
+password: 02d6ccf0
+If you cannot access the panel,
+release the following panel port [8888] in the security grou
